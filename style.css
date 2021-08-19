@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: aqua
+}
+h1{
+    color: crimson;
+    font-family: cursive;
+    background-color: coral;
+}
+img{
+    width: 450px;
+    border: 6px;
+    border-color: cyan;
+    
+}
